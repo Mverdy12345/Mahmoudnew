@@ -63,3 +63,7 @@ server.log
 /agent-ctx/
 /buildcheck
 /server.log
+
+# ملفات المستخدم المحلية
+/upload/
+/download/
